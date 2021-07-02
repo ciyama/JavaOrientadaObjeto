@@ -1,0 +1,2 @@
+module courseEx2 {
+}
